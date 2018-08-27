@@ -1,1 +1,1 @@
-const findMatching(driver, name);
+function findMatching() {}
