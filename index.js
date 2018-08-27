@@ -11,5 +11,5 @@ function fuzzyMatch (drivers, letter) {
 }
 
 function matchName (drivers, word) {
-  
+
 }
